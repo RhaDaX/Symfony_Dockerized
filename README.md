@@ -13,7 +13,10 @@
 
 Lancer la commande suivante 
 
+```console
 > docker compose build
+```
 
+```console
 > docker compose up -d
-
+```
